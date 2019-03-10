@@ -1,0 +1,21 @@
+.subpages
+{
+  text-align: center;
+}
+.heading
+{
+  text-align: center;
+  color: white;
+}
+li
+{
+  display: inline;
+}
+a
+{
+  color: white;
+}
+#homepage_body
+{
+  background: https://images.wallpaperscraft.com/image/ball_grass_football_114196_3840x2160.jpg;
+}
