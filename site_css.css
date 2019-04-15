@@ -1,6 +1,7 @@
 .subpages
 {
   text-align: center;
+  display: inline-block;
 }
 .heading
 {
@@ -17,5 +18,101 @@ a
 }
 #homepage_body
 {
-  background: https://images.wallpaperscraft.com/image/ball_grass_football_114196_3840x2160.jpg;
+  background: url("images/main_page_background.jpg")
+}
+.buttons_styling
+{
+  color: white;
+  -webkit-text-stroke: 1.5px black;
+  font-weight: bold;
+  cursor: pointer;
+  border: none;
+  font-size: 30px;
+  border-radius: 6px;
+  width: 240px;
+  height: 150px;
+  margin: 10px 10px 10px 10px;
+  opacity: 0.8;
+  transition: 0.1s;
+}
+.buttons_styling:hover
+{
+  opacity: 1;
+}
+.buttons_styling:active
+{
+  box-shadow: 0 1px black;
+  transform: translateY(4px);
+}
+#alpine_skiing
+{
+  background-image: url("images/Kalin-zlatkov.jpg");
+}
+#baseball
+{
+  background-image: url("images/baseball.jpg");
+}
+#canoeing
+{
+  background-image: url("images/canoeing.jpg");
+}
+#darts
+{
+  background-image: url("images/darts.jpg");
+}
+#equestrian
+{
+  background-image: url("images/equestrian.jpg");
+}
+#football
+{
+  background-image: url("images/football.jpg");
+}
+#golf
+{
+  background-image: url("images/golf.jpg");
+}
+#hockey
+{
+  background-image: url("images/hockey.jpg");
+}
+#ice_hockey
+{
+  background-image: url("images/ice_hockey.jpg");
+}
+#judo
+{
+  background-image: url("images/judo.jpg");
+}
+#mma
+{
+  background-image: url("images/mma.jpeg");
+}
+#netball
+{
+  background-image: url("images/netball.jpeg");
+}
+#olympic_sports
+{
+  background-image: url("images/olympic_sports.png")
+}
+#rowing
+{
+  background-image: url("images/rowing.jpg");
+}
+#swimming
+{
+  background-image: url("images/swimming.jpg");
+}
+#tennis
+{
+  background-image: url("images/tennis.jpg");
+}
+#volleyball
+{
+  background-image: url("images/volleyball.jpg");
+}
+#wrestling
+{
+  background-image: url("images/wrestling.jpg");
 }
