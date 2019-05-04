@@ -1,0 +1,118 @@
+.subpages
+{
+  text-align: center;
+  display: inline-block;
+}
+.heading
+{
+  text-align: center;
+  color: white;
+}
+li
+{
+  display: inline;
+}
+a
+{
+  color: white;
+}
+#homepage_body
+{
+  background: url("../images/main_page_background.jpg")
+}
+.buttons_styling
+{
+  color: white;
+  -webkit-text-stroke: 1.5px black;
+  font-weight: bold;
+  cursor: pointer;
+  border: none;
+  font-size: 30px;
+  border-radius: 6px;
+  width: 240px;
+  height: 150px;
+  margin: 10px 10px 10px 10px;
+  opacity: 0.8;
+  transition: 0.1s;
+}
+.buttons_styling:hover
+{
+  opacity: 1;
+}
+.buttons_styling:active
+{
+  box-shadow: 0 1px black;
+  transform: translateY(4px);
+}
+#alpine_skiing
+{
+  background-image: url("../images/homepage_images/Kalin-zlatkov.jpg");
+}
+#baseball
+{
+  background-image: url("../images/homepage_images/baseball.jpg");
+}
+#canoeing
+{
+  background-image: url("../images/homepage_images/canoeing.jpg");
+}
+#darts
+{
+  background-image: url("../images/homepage_images/darts.jpg");
+}
+#equestrian
+{
+  background-image: url("../images/homepage_images/equestrian.jpg");
+}
+#football
+{
+  background-image: url("../images/homepage_images/football.jpg");
+}
+#golf
+{
+  background-image: url("../images/homepage_images/golf.jpg");
+}
+#hockey
+{
+  background-image: url("../images/homepage_images/hockey.jpg");
+}
+#ice_hockey
+{
+  background-image: url("../images/homepage_images/ice_hockey.jpg");
+}
+#judo
+{
+  background-image: url("../images/homepage_images/judo.jpg");
+}
+#mma
+{
+  background-image: url("../images/homepage_images/mma.jpeg");
+}
+#netball
+{
+  background-image: url("../images/homepage_images/netball.jpeg");
+}
+#olympic_sports
+{
+  background-image: url("../images/homepage_images/olympic_sports.png")
+}
+#rowing
+{
+  background-image: url("../images/homepage_images/rowing.jpg");
+}
+#swimming
+{
+  background-image: url("../images/homepage_images/swimming.jpg");
+}
+#tennis
+{
+  background-image: url("../images/homepage_images/tennis.jpg");
+}
+#volleyball
+{
+  background-image: url("../images/homepage_images/volleyball.jpg");
+}
+#wrestling
+{
+  background-image: url("../images/homepage_images/wrestling.jpg");
+}

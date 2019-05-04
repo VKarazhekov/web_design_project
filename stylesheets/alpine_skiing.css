@@ -1,0 +1,16 @@
+body
+{
+  background-image: url("../images/alpine_skiing.jpg");
+}
+.heading
+{
+  text-align: center;
+  font-size: 70px;
+  color: white;
+  text-shadow: 0px 10px 10px black;
+}
+div
+{
+  margin-top: auto;
+  margin-bottom: auto;
+}
