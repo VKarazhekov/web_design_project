@@ -1,0 +1,39 @@
+.heading
+{
+  text-align: center;
+  font-size: 70px;
+  color: white;
+  text-shadow: 0px 5px 10px black;
+}
+#alpine_skiing
+{
+  background: url("../images/alpine_skiing.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+#baseball
+{
+  background: url("../images/baseball.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+#canoeing
+{
+  background: url("../images/canoeing.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+#darts
+{
+  background: url("../images/darts.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
