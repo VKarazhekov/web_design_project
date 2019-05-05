@@ -1,3 +1,11 @@
+html
+{
+  background: url("../images/main_page_background.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 .subpages
 {
   text-align: center;
@@ -15,10 +23,6 @@ li
 a
 {
   color: white;
-}
-#homepage_body
-{
-  background: url("../images/main_page_background.jpg")
 }
 .buttons_styling
 {
